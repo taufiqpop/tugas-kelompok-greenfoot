@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Background
+comment1.params=
+comment1.target=Background()
+comment2.params=
+comment2.target=int\ getLivesLadybug()
+comment3.params=
+comment3.target=void\ updLives()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
