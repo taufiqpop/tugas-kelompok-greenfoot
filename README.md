@@ -1,5 +1,6 @@
-# Tugas-Kelompok-Greenfoot
-Pemrograman Visual (PV) with GREENFOOT (Game : 'Lady Bugs')
+# Tugas Kelompok Greenfoot
+Pemrograman Visual (PV) with Greenfoot
+- Game : 'Lady Bugs'
 
 Anggota Kelompok :
 1. Syarifatul Daimahtul Fatiyyah (L200190077)
